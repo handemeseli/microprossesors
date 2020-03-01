@@ -1,0 +1,35 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Sun Dec 16 20:37:06 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00003e
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00001e      
+            31 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    TEST0   0x000018    program     static C:\mikro\toplama\toplama.asm
+                    TEST1   0x000008    program     static C:\mikro\toplama\toplama.asm
+                    TEST2   0x00000f    program     static C:\mikro\toplama\toplama.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    TEST1   0x000008    program     static C:\mikro\toplama\toplama.asm
+                    TEST2   0x00000f    program     static C:\mikro\toplama\toplama.asm
+                    TEST0   0x000018    program     static C:\mikro\toplama\toplama.asm
+
+
